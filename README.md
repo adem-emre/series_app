@@ -1,16 +1,8 @@
-# series_app
+# Screen Records
 
-A new Flutter project.
+![mainpage](https://user-images.githubusercontent.com/79714460/138469296-376735ff-aab5-4ebc-a72c-adfc4ce1a23d.gif)
 
-## Getting Started
+![detailpage](https://user-images.githubusercontent.com/79714460/138469372-f256b255-6185-4ab7-a2b2-019afa83ffc0.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
