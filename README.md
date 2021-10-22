@@ -1,8 +1,9 @@
 # Screen Records
 
-![mainpage](https://user-images.githubusercontent.com/79714460/138469296-376735ff-aab5-4ebc-a72c-adfc4ce1a23d.gif)
+![mainpage](https://user-images.githubusercontent.com/79714460/138470299-31b0ab2d-c4aa-4b6d-b7aa-a71d18092bfc.gif)
 
-![detailpage](https://user-images.githubusercontent.com/79714460/138469372-f256b255-6185-4ab7-a2b2-019afa83ffc0.gif)
+![detailpage](https://user-images.githubusercontent.com/79714460/138470278-3fd6469e-07b8-4043-8626-91afcbef5090.gif)
+
 
 
 
